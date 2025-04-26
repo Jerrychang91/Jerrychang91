@@ -5,8 +5,13 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# Education
-
+## Education
+> National Yang Ming Chiao Tung University (NYCU)
+- Master Degree | Institute of Electrical and Control Engineering
+- Research Interest: Efficient Deep Learning for Robotic Perception & Localization
+- Advisor: Prof. Kuu Young, Young
+> National Taiwan Ocean University (NTOU)
+- Bachelor Degree | Mechanical and Mechatronic Engineering
 <!---
 Jerrychang91/Jerrychang91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
